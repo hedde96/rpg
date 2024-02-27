@@ -1,0 +1,14 @@
+C:\Users\hedde\Desktop\pwm\bin\Debug\net8.0\pwm.exe
+C:\Users\hedde\Desktop\pwm\bin\Debug\net8.0\pwm.deps.json
+C:\Users\hedde\Desktop\pwm\bin\Debug\net8.0\pwm.runtimeconfig.json
+C:\Users\hedde\Desktop\pwm\bin\Debug\net8.0\pwm.dll
+C:\Users\hedde\Desktop\pwm\bin\Debug\net8.0\pwm.pdb
+C:\Users\hedde\Desktop\pwm\obj\Debug\net8.0\pwm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hedde\Desktop\pwm\obj\Debug\net8.0\pwm.AssemblyInfoInputs.cache
+C:\Users\hedde\Desktop\pwm\obj\Debug\net8.0\pwm.AssemblyInfo.cs
+C:\Users\hedde\Desktop\pwm\obj\Debug\net8.0\pwm.csproj.CoreCompileInputs.cache
+C:\Users\hedde\Desktop\pwm\obj\Debug\net8.0\pwm.dll
+C:\Users\hedde\Desktop\pwm\obj\Debug\net8.0\refint\pwm.dll
+C:\Users\hedde\Desktop\pwm\obj\Debug\net8.0\pwm.pdb
+C:\Users\hedde\Desktop\pwm\obj\Debug\net8.0\pwm.genruntimeconfig.cache
+C:\Users\hedde\Desktop\pwm\obj\Debug\net8.0\ref\pwm.dll
